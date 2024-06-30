@@ -1,4 +1,4 @@
-## Hi, I'm mkitahara(mikity1985). 👋
+## Hi, I'm mkitahara(mikity1985).
 
 ### career
 - Engineering Manager
