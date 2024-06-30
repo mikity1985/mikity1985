@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, I'm mkitahara(mikity1985). 👋
+
+### career
+- Engineering Manager
+- Android Engineer
+
+### Speaker Deck
+- https://speakerdeck.com/mkitahara01985
 
 <!--
 **mikity1985/mikity1985** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
