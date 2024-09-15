@@ -4,6 +4,9 @@
 - Engineering Manager
 - Android Engineer
 
+### SNS
+- https://my.prairie.cards/u/mikity01985
+
 ### Speaker Deck
 - https://speakerdeck.com/mkitahara01985
 
